@@ -1,4 +1,4 @@
-# ➕ Sum of Array Elements – JavaScript Logic Project
+# Sum of Array Elements – JavaScript Logic Project
 
 This is a beginner-friendly JavaScript project that calculates the **sum of all numbers in an array** using a `for` loop. The result is displayed in the **browser console**.
 
